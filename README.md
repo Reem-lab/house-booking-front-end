@@ -8,6 +8,16 @@
 
 > Rent me is a responsive app that lists houses. A user can selects a specific house, see the details page with its full description, and can click the "Reserve" button to reserve it. The user can also access the "Reserve" page from the navigation panel, add or delete a house.
 
+
+## Video Demo
+
+
+
+https://user-images.githubusercontent.com/58553711/173956427-121b5d05-de57-4d0d-ab72-05575e4648be.mp4
+
+
+
+
 ## Live Demo
 
 You can see [the app live here](https://rent-me-capstone-project.netlify.app/)
